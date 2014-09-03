@@ -1,6 +1,6 @@
 #!/bin/bash
 
-HOSTNAME="host / IP"
+HOSTNAME="hostname or IP address"
 MOUNT_PATH="/home/user/whatever/"
 
 echo 'DISCONNECTING SSHFS '$HOSTNAME'...'

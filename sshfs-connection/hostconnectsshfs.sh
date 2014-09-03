@@ -1,6 +1,6 @@
 #!/bin/bash
 
-HOSTNAME="host / IP"
+HOSTNAME="hostname or IP address"
 USER="user"
 MOUNT_PATH="/home/user/whatever"
 PORT="2222"

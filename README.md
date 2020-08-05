@@ -1,3 +1,3 @@
-bash-script
+Bash scripts tools
 ============
-bash scripts for easier work in linux enviroment
+Bash scripts for easier work in linux enviroment
